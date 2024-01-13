@@ -1,4 +1,9 @@
-Details for logging in to the Bankist web app;
-User id           Password
- js                 1111
- jd                 2222
+
+# Login Details for the bankist web app 
+
+
+for now there are only 2 accounts that you can use for loggin and use the website.
+
+| User Id | Password |
+|     js      |  1111        | 
+|     jd      |  2222        | 
