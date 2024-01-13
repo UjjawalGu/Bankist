@@ -6,5 +6,5 @@ for now there are only 2 accounts that you can use for loggin and use the websit
 
 | User Id | Password |
 |     js      |  1111        | 
-:-:-:-:-:-
+<br>
 |     jd      |  2222        | 
